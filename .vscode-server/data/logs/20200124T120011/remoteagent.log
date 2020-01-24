@@ -1,0 +1,27 @@
+[2020-01-24 21:00:11.380] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-01-24 21:00:11.380] [remoteagent] [info] Extension host agent listening on 46525
+[2020-01-24 21:00:11.879] [remoteagent] [info] ==> Received a management connection
+[2020-01-24 21:00:11.893] [remoteagent] [info] Scanning extensions using UI language: en
+[2020-01-24 21:00:11.928] [remoteagent] [info] ==> Received an extension host connection.
+[2020-01-24 21:00:11.929] [remoteagent] [info] ==> Using UI language: en
+[2020-01-24 21:00:27.533] [remoteagent] [info] ==> Received an extension host connection.
+[2020-01-24 21:00:27.533] [remoteagent] [info] ==> Using UI language: en
+[2020-01-24 21:00:27.638] [remoteagent] [info] ==> Received a management connection
+[2020-01-24 21:00:27.654] [remoteagent] [info] Scanning extensions using UI language: en
+[2020-01-24 21:06:19.073] [remoteagent] [info] Installing extension: ms-python.python
+[2020-01-24 21:07:43.397] [remoteagent] [info] Downloaded extension: ms-python.python /tmp/8941958a-77c9-452d-97b6-d9af6acc83bf
+[2020-01-24 21:07:51.338] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.ms-python.python-2019.10.41019: ms-python.python
+[2020-01-24 21:07:51.344] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2019.10.41019
+[2020-01-24 21:07:51.354] [remoteagent] [info] Installation completed. ms-python.python
+[2020-01-24 21:07:51.431] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-01-24 21:23:55.487] [remoteagent] [info] ==> Received a management connection
+[2020-01-24 21:24:00.614] [remoteagent] [info] ==> Received a management connection
